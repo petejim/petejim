@@ -1,4 +1,5 @@
 ### Hi there :shipit:
+My name is Peter Kim and I'm an aerospace engineering major at Cal Poly, SLO
 
 <!--
 **petejim/petejim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
