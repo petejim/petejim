@@ -1,7 +1,7 @@
 ### Hi there :shipit:
 My name is Peter Kim and I'm an aerospace engineering major at Cal Poly, SLO
 
-Mainly, I'll be uploading tools I developed for my Aerospace Toolbox but I will be uploading random things as well. 
+I'll be uploading tools I developed for my Aerospace Toolbox and random things I write as well. 
 
 I primarily use MATLAB to code, but I'm learning Python as well.
 <!--
