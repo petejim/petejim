@@ -1,6 +1,9 @@
 ### Hi there :shipit:
 My name is Peter Kim and I'm an aerospace engineering major at Cal Poly, SLO
 
+Mainly, I'll be uploading tools I developed for my Aerospace Toolbox but I will be uploading random things as well. 
+
+I primarily use MATLAB to code, but I'm learning Python as well.
 <!--
 **petejim/petejim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
